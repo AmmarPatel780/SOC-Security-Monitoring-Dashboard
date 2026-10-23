@@ -1,0 +1,4 @@
+windows_events.csv
+*.evtx
+.env
+__pycache__/
